@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coursatrix</string>
+    <string name="widget_name">今日课程</string>
+    <string name="widget_description">显示今天剩余的课程，今天的课结束后显示明天的课程</string>
+    <string name="widget_loading">正在加载课表…</string>
+</resources>
